@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <!--핵심-->
+        <script type="text/javascript" src="jquery.js"></script>
+    </head>
+    <body>
+        <ul id="list">
+            <li>empty</li>
+            <li>empty</li>
+            <li>empty</li>
+            <li>empty</li>
+            <li>empty</li>
+        </ul>
+        <input type="button" value="change" id="change_btn" />
+        <script type="text/javascript">
+            // list라는 아이디를 가진 태그의 하위의 li태그들
+            // $는 예약어
+            // empty를 you seong min으로 바꿔본다.
+            $('#change_btn').click(function(){
+                $('#list li').text('you seong min');
+            });
+        </script>
+    </body>
+</html>
