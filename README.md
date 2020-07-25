@@ -55,8 +55,14 @@
   - Scheme : 1급함수(first-class function) 함수의 인자와 반환값으로 함수를 사용
   - Self : prototype 기반의 상속 개념
 
-+ 참고
+## Reference and API Documents
++ javascript API Docs
   - [jQuery를 만든 John Resig의 JavaScript 고급 강의](http://ejohn.org/apps/learn/) 
   - [Firefox의 모질라 재단에서 운영중인 자바스크립트 튜토리얼](https://developer.mozilla.org/ko/docs/JavaScript/Guide)
   - [생활코딩 JavaScript 사전](http://opentutorials.org/course/50)
-  - [google project](http://www.html5rocks.com/ko/)
+  - [Microsoft javascript API Docs](https://docs.microsoft.com/ko-kr/previous-versions/visualstudio/visual-studio-2010/z688wt03(v=vs.100)?redirectedfrom=MSDN)
+  - [HTML5 Rocks](http://www.html5rocks.com/ko/)
++ 호스트 환경의 API Docs
+  - [browser API](https://developer.mozilla.org/en-US/docs/Web/API)
+  - [Node js API](https://nodejs.org/api/)
+  - [Google Apps Script API](https://developers.google.com/apps-script/)
